@@ -79,7 +79,6 @@ int main( int argc, char** argv )
         cerr << "Too few arguments" << endl;
         exit( 1 );
     }
-
     // Read the size of the input array (n) and the number of worker threads (p) to use
     sizeOfInput = stoi( argv[1] );
     numberOfThreads = stoi( argv[2] );
