@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/thund/CLionProjects/OSBarrier/main.cpp" "CMakeFiles/untitled1.dir/main.cpp.o" "gcc" "CMakeFiles/untitled1.dir/main.cpp.o.d"
+  "C:/Users/vince/CLionProjects/OSBarrier/main.cpp" "CMakeFiles/untitled1.dir/main.cpp.obj" "gcc" "CMakeFiles/untitled1.dir/main.cpp.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
