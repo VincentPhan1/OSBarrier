@@ -74,7 +74,6 @@ void doWork( int myid ) {
 // The main function
 int main( int argc, char** argv )
 {
-
     if (argc < 3) {
         cerr << "Too few arguments" << endl;
         exit( 1 );
